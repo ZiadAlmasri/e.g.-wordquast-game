@@ -1,1 +1,2 @@
-# e.g.-wordquast-game
+#Ziad Almasri
+this small project about doing a wordle game in a python program, this code when you run it it will start the game and will ask you to gusse the word, you will start guusing litter by litter until you find the correct word or the chanses to gusse finish, before all of that you need to choose the type of the game, like food, cars...etc. this game has beem made by first year softwere engeer and it is the first project ever doing a program.
